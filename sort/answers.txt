@@ -1,0 +1,11 @@
+sort1 uses: Linear
+
+How do you know?: slowest
+
+sort2 uses: TODO
+
+How do you know?: 
+
+sort3 uses: buble
+
+How do you know?: second slowest
